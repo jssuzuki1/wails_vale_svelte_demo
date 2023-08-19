@@ -1,0 +1,7 @@
+extends: existence
+message: "This sentence should have 'datum', not 'data' comrade."
+ignorecase: true
+level: error
+tokens:
+  - is data
+  - data is
